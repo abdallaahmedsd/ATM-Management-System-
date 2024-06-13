@@ -1,0 +1,5 @@
+﻿  ATM.cpp
+C:\Users\user\source\repos\ATM\ATM\ATM.cpp(49,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\user\source\repos\ATM\ATM\ATM.cpp(203,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\ATM\ATM\ATM.cpp(205,1): warning C4715: 'getBalanceAmount': not all control paths return a value
+  ATM.vcxproj -> C:\Users\user\source\repos\ATM\x64\Debug\ATM.exe
